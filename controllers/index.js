@@ -19,3 +19,7 @@ function checkTask() {
 function testCompleted() {
     console.log('testComplete');
 }
+
+function doneTask() {
+    console.log('doneTask');
+}
